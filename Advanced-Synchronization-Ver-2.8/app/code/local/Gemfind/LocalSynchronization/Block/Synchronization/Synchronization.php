@@ -1,0 +1,5 @@
+<?php
+class Gemfind_LocalSynchronization_Block_Synchronization_Synchronization extends Gemfind_Synchronization_Block_Synchronization
+{
+}
+			

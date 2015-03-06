@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Gemfind_LocalSynchronization>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.1.1</version>
+    </Gemfind_LocalSynchronization>
+  </modules>
+</config>
